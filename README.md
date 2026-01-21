@@ -14,28 +14,8 @@ This repository contains code for **distinguishing fake news from real news** in
 
 ## Run the Code
 
-You can run the notebooks directly on **Google Colab** (no setup required):
+You can run the notebooks directly on **Google Colab** (see Note above):
 
 | Platform | Link |
 |----------|------|
 | Google Colab | [Open Notebook](https://colab.research.google.com/drive/1rFtNnskJmzKd7l1kvBP9_tOZLLPZhiPr) |
-
----
-
-## Features
-
-- Preprocessing and tokenization for multilingual text.
-- Fine-tuning of XLM-RoBERTa for fake news classification.
-- Evaluation metrics for model performance (accuracy, F1-score, etc.).
-- Support for English, French, and Spanish datasets.
-
----
-
-## Getting Started
-
-1. Download the datasets from the links above.
-2. Upload them to the Jupyter notebook or Google Colab environment.
-3. Install the required packages (see `requirements.txt` if included).
-4. Run the notebook cells sequentially to train and evaluate the model.
-
----
