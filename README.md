@@ -14,7 +14,7 @@ This repository contains code for **distinguishing fake news from real news** in
 
 ## Run the Code
 
-You can run the notebooks directly on **Google Colab** (see Note above):
+You can run the notebook directly on **Google Colab** (see Note above):
 
 | Platform | Link |
 |----------|------|
