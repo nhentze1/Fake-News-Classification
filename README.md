@@ -18,7 +18,7 @@ You can run the notebooks directly on **Google Colab** (no setup required):
 
 | Platform | Link |
 |----------|------|
-| Google Colab | [Open Notebook](YOUR_COLAB_LINK_HERE) |
+| Google Colab | [Open Notebook](https://colab.research.google.com/drive/1rFtNnskJmzKd7l1kvBP9_tOZLLPZhiPr) |
 
 ---
 
